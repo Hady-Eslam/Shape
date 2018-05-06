@@ -1,13 +1,14 @@
-# Shape
+# Project Name
+Shape
 
 # Language
-  Java
+Java
 
 # Data Of Release 
-  01/11/2016
+01/11/2016
 
 # Purpose
-  Project Of Faculty
+Project Of Faculty
 
 # Project Discreption 
-  Project That Use The Concept Of Object Orianted Programming It is a project that use to educate a child of how to compute the parameters and areas and volumes of shapes like Circles, Rectangles, And So on and make excirces on then
+Project That Use The Concept Of Object Orianted Programming It is a project that use to educate a child of how to compute the parameters and areas and volumes of shapes like Circles, Rectangles, And So on and make excirces on then
